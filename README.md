@@ -17,11 +17,11 @@ Local Setup
 Installation
 To follow this project, please install the following locally:
 
-JupyerLab
-Python 3.8+
-Python packages
-pandas
-yfinance
-scikit-learn
+JupyerLab,
+Python 3.8+,
+Python packages are:-
+pandas,
+yfinance,
+scikit-learn.
 Data
 We'll download all of the data during the project, using the yfinance package.# Stock_Price_prediction
